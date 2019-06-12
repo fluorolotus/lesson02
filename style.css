@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body, html {
+	width: 100%;
+}
+
+a {
+	text-decoration: none; 
+	background-color: #ccc;
+	
+}
+li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+.container{
+	width: 800px;
+	margin: 0 auto;
+}
